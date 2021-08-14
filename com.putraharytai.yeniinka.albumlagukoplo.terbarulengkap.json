@@ -1,0 +1,78 @@
+{
+"redirect" : {
+
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Server Ready GAS SIAP",
+
+
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
+
+"INTER_COUNT" : 3,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : true,
+"Enable_Sticky_Notification" : true,
+
+
+"STARAPPID" : "207613623",
+
+"ADMOB_BANNER" : "ca-app-pub-9107244566912908/9320394893",
+"ADMOB_INTER" : "ca-app-pub-9107244566912908/1274383919",
+"ADMOB_NATIV" : "XX",
+
+"hpk_alien" : "xx",
+"HPK_ADMOB1" : "xx",
+"HPK_ADMOB2" : "xx",
+"HPK_ADMOB3" : "xx",
+"HPK_ADMOB4" : "xx",
+"HPK_ADMOB5" : "xx",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "dgt",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "xx",
+"APPLOVIN_INTERSTITIAL_ID" : "xx",
+
+"Button_Start" : "BUKA LAGU",
+"Button_Share" : "BAGIKAN",
+"Button_Rating" : "RATING",
+
+
+"Exit_Popup_Dialog" : "Dukung kami agar lebih semangat mengembangkan Aplikasi ini dan terus memberikan tambahan lagu yeni inka terbaru \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Rate_Button" : "Rate Bintang 5",
+"Later_Button" : "Rate Nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Supperr APPS Download Now",
+"More_Button" : "Bagikan Aplikasi",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
+}
